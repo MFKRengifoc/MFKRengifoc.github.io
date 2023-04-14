@@ -1,0 +1,75 @@
+[
+    {
+        "id": "tab1",
+        "tab": "Skills",
+        "icon": "skills.svg",
+        "navbar": [
+            {
+                "title": "Android",
+                "icon": "kotlin.png",
+                "contentTitle": "Android",
+                "content": [
+                    "I like the Android Ecosystem and programming on it.",
+                    "Using <span class=\"chip-primary\">Kotlin</span> as principal language and applying <span class=\"chip-white\">MVVM</span> patrons and updating tech skills on every project."
+                ]
+            },
+            {
+                "title": "Python",
+                "icon": "python.png",
+                "contentTitle": "Python",
+                "content": [
+                    "I use <span class=\"chip-primary\">Python</span> for everything.",
+                    "I began with <span class=\"chip-white\">Machile Learning</span>.", 
+                    "I´ve learned to process large amount of data, for web serving with <span class=\"chip-white\">Django and Flask</span>."
+                ]
+            },
+            {
+                "title": "Angular",
+                "icon": "angular.png",
+                "contentTitle": "Angular",
+                "content": [
+                    "When I have to develop in web, I use <span class=\"chip-primary\">Angular</span>, It is fast and I know the tricks to use with <span class=\"chip-white\">Fluency</span>."
+                ]
+            }
+        ]
+    },
+    {
+        "id": "tab2",
+        "tab": "Education",
+        "icon": "education.svg",
+        "navbar": [
+            {
+                "title": "Computer Engineer",
+                "icon": "education.png",
+                "contentTitle": "Computer Engineer - UOC",
+                "content": [
+                    "I am studying to be great developer.",
+                    "My objective? Improve my <span class=\"chip-white\">math</span> Skills.",
+                    "You can visit the University site <a href=\"https://www.uoc.edu/portal/es/index.html\">here</a>"
+                ]
+            },
+            {
+                "title": "Associated Degree",
+                "icon": "education.png",
+                "contentTitle": "Associated Degrees",
+                "content": [
+                    "DAM: Professional as Android <span class=\"chip-white\">App</span> developer.", 
+                    "DAW: Professional of <span class=\"chip-white\">Web</span> applications."
+                ]
+            }
+        ]
+    },
+    {
+        "id": "tab3",
+        "tab": "About me",
+        "icon": "mf.svg",
+        "navbar": [
+            {
+                "title": "Bionic Reading",
+                "icon": "mf.png",
+                "contentTitle": "Bionic Reading",
+                "content": ["I like Bionic Reading."]
+            }
+        ]
+    }
+]

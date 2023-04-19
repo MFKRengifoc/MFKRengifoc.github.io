@@ -10,7 +10,8 @@
                 "contentTitle": "Android",
                 "content": [
                     "I like the Android Ecosystem and programming on it.",
-                    "Using <span class=\"chip-primary\">Kotlin</span> as principal language and applying <span class=\"chip-white\">MVVM</span> patrons and updating tech skills on every project."
+                    "<span class=\"chip-primary\">Kotlin</span> is the principal language I use for Android.", 
+                    "<span class=\"chip-white\">MVVM</span> patrons and updating tech skills on every project."
                 ]
             },
             {
@@ -68,7 +69,9 @@
                 "title": "Bionic Reading",
                 "icon": "mf.png",
                 "contentTitle": "Bionic Reading",
-                "content": ["I like Bionic Reading."]
+                "content": [
+                    "I like Bionic Reading."
+                ]
             }
         ]
     }

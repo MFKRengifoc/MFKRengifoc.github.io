@@ -20,8 +20,8 @@
                 "contentTitle": "Python",
                 "content": [
                     "I use <span class=\"chip-primary\">Python</span> for everything.",
-                    "I began with <span class=\"chip-white\">Machile Learning</span>.", 
-                    "I´ve learned to process large amount of data, for web serving with <span class=\"chip-white\">Django and Flask</span>."
+                    "I took my first steps with <span class=\"chip-white\">Machile Learning</span>.", 
+                    "I have learned to process large amount of data, for web serving with <span class=\"chip-white\">Django and Flask</span>."
                 ]
             },
             {
@@ -29,7 +29,8 @@
                 "icon": "angular.png",
                 "contentTitle": "Angular",
                 "content": [
-                    "When I have to develop in web, I use <span class=\"chip-primary\">Angular</span>, It is fast and I know the tricks to use with <span class=\"chip-white\">Fluency</span>."
+                    "When I have to develop in web, I use <span class=\"chip-primary\">Angular</span>", 
+                    "It is fast and I know the tricks to use with <span class=\"chip-white\">Fluency</span>."
                 ]
             }
         ]
@@ -46,7 +47,7 @@
                 "content": [
                     "I am studying to be great developer.",
                     "My objective? Improve my <span class=\"chip-white\">math</span> Skills.",
-                    "You can visit the University site <a href=\"https://www.uoc.edu/portal/es/index.html\">here</a>"
+                    "You can visit the University site <a href=\"https://www.uoc.edu/portal/es/index.html\">here</a>."
                 ]
             },
             {
@@ -54,8 +55,8 @@
                 "icon": "education.png",
                 "contentTitle": "Associated Degrees",
                 "content": [
-                    "DAM: Professional as Android <span class=\"chip-white\">App</span> developer.", 
-                    "DAW: Professional of <span class=\"chip-white\">Web</span> applications."
+                    "DAM: Professional as Android <span class=\"chip-white\">App</span> developer. <a href=\"https://www.palomafp.org/\">Visit</a>.", 
+                    "DAW: Professional of <span class=\"chip-white\">Web</span> applications. <a href=\"https://www.educa2.madrid.org/web/centro.ies.lapaz.alcobendas/inicio/\">Visit</a>."
                 ]
             }
         ]
@@ -66,11 +67,20 @@
         "icon": "mf.svg",
         "navbar": [
             {
+                "title": "Chess",
+                "icon": "chess.png",
+                "contentTitle": "Chess",
+                "content": [
+                    "You can beat me here <a href=\"https://www.chess.com/member/manoffocus20\">here</a>."
+                ]
+            },
+            {
                 "title": "Bionic Reading",
                 "icon": "mf.png",
                 "contentTitle": "Bionic Reading",
                 "content": [
-                    "I like Bionic Reading."
+                    "I like Bionic Reading.",
+                    "To know more about it. Check <a href=\"https://blog.readwise.io/does-bionic-reading-actually-work/\">this</a>."
                 ]
             }
         ]

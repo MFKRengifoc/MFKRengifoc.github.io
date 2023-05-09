@@ -82,6 +82,15 @@
                     "I like Bionic Reading.",
                     "To know more about it. Check <a href=\"https://blog.readwise.io/does-bionic-reading-actually-work/\">this</a>."
                 ]
+            },
+            {
+                "title": "Contact",
+                "icon": "email.png",
+                "contentTitle": "Contact me",
+                "content": [
+                    "Send a email for more information <a href=\"mailto:santireven20@gmail.com\" target=\"_blank\"> here, please</a>.",
+                    "Thank you."
+                ]
             }
         ]
     }
